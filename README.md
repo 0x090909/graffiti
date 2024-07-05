@@ -6,7 +6,7 @@ Graffiti is a tool to automatically add struct tags to fields in your go code.
 ### Install as a standalone tool
 
 ```
-    go install github.com/0x090909/graffiti 
+go install github.com/0x090909/graffiti 
 ```
 
 
